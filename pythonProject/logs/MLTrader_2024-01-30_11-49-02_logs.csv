@@ -1,0 +1,222 @@
+2024-01-30 11:49:02,636: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-01-30 11:49:04,240: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-01-30 11:49:04,241: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-01-30 11:49:04,242: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-01-30 11:49:04,242: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-01-30 11:49:04,243: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:04
+2024-01-30 11:49:04,244: root: INFO: New market order of | 10 SPY buy | with status unprocessed was submitted.
+2024-01-30 11:49:04,247: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:04
+2024-01-30 11:49:04,247: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-30 11:49:04,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,313: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,314: root: INFO: Filled Transaction: buy 10 of SPY at 469.48999023 USD per share
+2024-01-30 11:49:05,314: root: INFO: market order of | 10 SPY buy | with status new was filled
+2024-01-30 11:49:05,322: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,324: root: INFO: Current backtesting datetime 2023-12-15 16:00:00-05:00
+2024-01-30 11:49:05,324: root: INFO: Current backtesting datetime 2023-12-16 09:30:00-05:00
+2024-01-30 11:49:05,327: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-01-30 11:49:05,330: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-01-30 11:49:05,339: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-01-30 11:49:05,340: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-01-30 11:49:05,342: root: INFO: Current backtesting datetime 2023-12-18 08:30:00-05:00
+2024-01-30 11:49:05,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,349: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-01-30 11:49:05,351: root: INFO: Current backtesting datetime 2023-12-18 09:30:00-05:00
+2024-01-30 11:49:05,351: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-01-30 11:49:05,356: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,356: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,358: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,360: root: INFO: Current backtesting datetime 2023-12-18 16:00:00-05:00
+2024-01-30 11:49:05,360: root: INFO: Current backtesting datetime 2023-12-19 09:30:00-05:00
+2024-01-30 11:49:05,366: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,366: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,369: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,371: root: INFO: Current backtesting datetime 2023-12-19 16:00:00-05:00
+2024-01-30 11:49:05,371: root: INFO: Current backtesting datetime 2023-12-20 09:30:00-05:00
+2024-01-30 11:49:05,374: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,374: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,376: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,378: root: INFO: Current backtesting datetime 2023-12-20 16:00:00-05:00
+2024-01-30 11:49:05,378: root: INFO: Current backtesting datetime 2023-12-21 09:30:00-05:00
+2024-01-30 11:49:05,381: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,382: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,383: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,385: root: INFO: Current backtesting datetime 2023-12-21 16:00:00-05:00
+2024-01-30 11:49:05,386: root: INFO: Current backtesting datetime 2023-12-22 09:30:00-05:00
+2024-01-30 11:49:05,389: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,389: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,391: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,392: root: INFO: Current backtesting datetime 2023-12-22 16:00:00-05:00
+2024-01-30 11:49:05,393: root: INFO: Current backtesting datetime 2023-12-23 09:30:00-05:00
+2024-01-30 11:49:05,395: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-01-30 11:49:05,399: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-01-30 11:49:05,401: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-01-30 11:49:05,401: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-01-30 11:49:05,403: root: INFO: Current backtesting datetime 2023-12-26 08:30:00-05:00
+2024-01-30 11:49:05,403: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,405: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,407: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-01-30 11:49:05,408: root: INFO: Current backtesting datetime 2023-12-26 09:30:00-05:00
+2024-01-30 11:49:05,408: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-01-30 11:49:05,413: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,413: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,416: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,418: root: INFO: Current backtesting datetime 2023-12-26 16:00:00-05:00
+2024-01-30 11:49:05,418: root: INFO: Current backtesting datetime 2023-12-27 09:30:00-05:00
+2024-01-30 11:49:05,421: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,421: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,423: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,426: root: INFO: Current backtesting datetime 2023-12-27 16:00:00-05:00
+2024-01-30 11:49:05,426: root: INFO: Current backtesting datetime 2023-12-28 09:30:00-05:00
+2024-01-30 11:49:05,429: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,430: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,432: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,434: root: INFO: Current backtesting datetime 2023-12-28 16:00:00-05:00
+2024-01-30 11:49:05,435: root: INFO: Current backtesting datetime 2023-12-29 09:30:00-05:00
+2024-01-30 11:49:05,439: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-30 11:49:05
+2024-01-30 11:49:05,439: root: INFO: MLTrader : Trading iteration ended at 2024-01-30 11:49:05
+2024-01-30 11:49:05,441: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-30 11:49:05,443: root: INFO: Current backtesting datetime 2023-12-29 16:00:00-05:00
+2024-01-30 11:49:05,443: root: INFO: Current backtesting datetime 2023-12-30 09:30:00-05:00
+2024-01-30 11:49:05,447: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-01-30 11:49:05,450: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-01-30 11:49:05,453: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-01-30 11:49:05,453: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-01-30 11:49:05,455: root: INFO: Current backtesting datetime 2024-01-02 08:30:00-05:00
+2024-01-30 11:49:05,455: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,457: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-30 11:49:05,458: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-01-30 11:49:05,460: root: INFO: Current backtesting datetime 2024-01-02 09:30:00-05:00
+2024-01-30 11:49:05,460: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-01-30 11:49:05,464: root: INFO: Current backtesting datetime 2024-01-02 15:59:00-05:00
+2024-01-30 11:49:05,465: root: INFO: MLTrader : Executing the before_market_closes lifecycle method
+2024-01-30 11:49:05,467: root: INFO: Current backtesting datetime 2024-01-02 16:00:00-05:00
+2024-01-30 11:49:05,468: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-01-30 11:49:05,468: root: INFO: MLTrader : Executing the on_strategy_end lifecycle method
+2024-01-30 11:49:05,499: root: INFO: Backtesting finished
+2024-01-30 11:49:07,760: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:07,770: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:07,830: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:07,830: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:07,950: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:07,950: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:07,951: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,012: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,068: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,069: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,127: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,128: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,216: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,216: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,217: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,278: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,347: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,347: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,403: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,403: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,474: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,474: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,475: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,537: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,611: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,611: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,647: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,647: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,698: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,699: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,701: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,753: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,978: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:08,985: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,004: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,005: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,068: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,068: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,104: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,105: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,171: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,172: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,173: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,218: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,218: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,219: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,278: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,322: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,420: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,421: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,513: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,513: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,622: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,622: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,623: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,726: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,857: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,858: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,964: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:09,964: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,032: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,032: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,033: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,090: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,242: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,242: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,327: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,327: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,480: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,480: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,482: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,623: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,814: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,814: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,951: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:10,951: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,092: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,092: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,094: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,234: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,462: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,463: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,620: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,620: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,772: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,773: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,774: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,868: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,949: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:11,950: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,002: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,002: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,069: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,069: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,070: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,131: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,203: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,203: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,253: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,253: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,304: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,305: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,305: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,353: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,424: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,425: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,426: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,427: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,530: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,531: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,603: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,603: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,604: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,607: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,641: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,642: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,823: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,824: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,876: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,876: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,940: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,941: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:12,942: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:13,014: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-01-30 11:49:13,210: backtest_stats: INFO: Backtest took 0:00:10.574348 for a speed of 0.000

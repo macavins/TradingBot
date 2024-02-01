@@ -1,0 +1,338 @@
+2024-02-01 11:23:03,545: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-02-01 11:23:05,402: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-02-01 11:23:05,403: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-01 11:23:05,405: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-02-01 11:23:05,405: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-01 11:23:05,407: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:05
+2024-02-01 11:23:05,407: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:05,414: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:08,928: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:08
+2024-02-01 11:23:08,930: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:08,931: root: INFO: Current backtesting datetime 2023-12-15 16:00:00-05:00
+2024-02-01 11:23:08,932: root: INFO: Current backtesting datetime 2023-12-16 09:30:00-05:00
+2024-02-01 11:23:08,932: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-02-01 11:23:08,934: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-02-01 11:23:08,936: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-02-01 11:23:08,936: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-01 11:23:08,937: root: INFO: Current backtesting datetime 2023-12-18 08:30:00-05:00
+2024-02-01 11:23:08,938: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-01 11:23:08,939: root: INFO: Current backtesting datetime 2023-12-18 09:30:00-05:00
+2024-02-01 11:23:08,939: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-01 11:23:08,941: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:08
+2024-02-01 11:23:08,941: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:08,943: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:09,804: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:09
+2024-02-01 11:23:09,806: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:09,808: root: INFO: Current backtesting datetime 2023-12-18 16:00:00-05:00
+2024-02-01 11:23:09,808: root: INFO: Current backtesting datetime 2023-12-19 09:30:00-05:00
+2024-02-01 11:23:09,810: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:09
+2024-02-01 11:23:09,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:09,811: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:10,921: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:10
+2024-02-01 11:23:10,923: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:10,924: root: INFO: Current backtesting datetime 2023-12-19 16:00:00-05:00
+2024-02-01 11:23:10,924: root: INFO: Current backtesting datetime 2023-12-20 09:30:00-05:00
+2024-02-01 11:23:10,925: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:10
+2024-02-01 11:23:10,925: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:10,926: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:11,955: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:11
+2024-02-01 11:23:11,957: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:11,958: root: INFO: Current backtesting datetime 2023-12-20 16:00:00-05:00
+2024-02-01 11:23:11,958: root: INFO: Current backtesting datetime 2023-12-21 09:30:00-05:00
+2024-02-01 11:23:11,959: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:11
+2024-02-01 11:23:11,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:11,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:13,283: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:13
+2024-02-01 11:23:13,284: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:13,285: root: INFO: Current backtesting datetime 2023-12-21 16:00:00-05:00
+2024-02-01 11:23:13,286: root: INFO: Current backtesting datetime 2023-12-22 09:30:00-05:00
+2024-02-01 11:23:13,286: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:13
+2024-02-01 11:23:13,287: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:13,288: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,683: root: INFO: New market order of | 106.0 SPY sell | at price $379.08798828125003 of class bracket with status unprocessed was submitted.
+2024-02-01 11:23:14,690: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:14
+2024-02-01 11:23:14,690: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,691: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,692: root: INFO: market order of | 106.0 SPY sell | at price $379.08798828125003 of class bracket with status new was sent to broker backtesting
+2024-02-01 11:23:14,692: root: INFO: market order of | 106.0 SPY sell | at price $379.08798828125003 of class bracket with status new was sent to broker backtesting
+2024-02-01 11:23:14,692: root: INFO: Filled Transaction: sell 106.0 of SPY at 473.85998535 USD per share
+2024-02-01 11:23:14,692: root: INFO: market order of | 106.0 SPY sell | at price $379.08798828125003 of class bracket with status new was filled
+2024-02-01 11:23:14,700: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:14,701: root: INFO: Current backtesting datetime 2023-12-22 16:00:00-05:00
+2024-02-01 11:23:14,701: root: INFO: Current backtesting datetime 2023-12-23 09:30:00-05:00
+2024-02-01 11:23:14,703: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-02-01 11:23:14,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,704: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,704: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,704: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,705: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,707: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,708: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,708: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,709: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,709: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,710: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,711: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-02-01 11:23:14,712: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,712: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,713: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,713: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,713: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,716: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-02-01 11:23:14,716: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-01 11:23:14,716: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,716: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,717: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,718: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,719: root: INFO: Current backtesting datetime 2023-12-26 08:30:00-05:00
+2024-02-01 11:23:14,720: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,721: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,723: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-01 11:23:14,723: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,724: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,724: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:14,724: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,725: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,727: root: INFO: Current backtesting datetime 2023-12-26 09:30:00-05:00
+2024-02-01 11:23:14,727: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-01 11:23:14,735: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:14
+2024-02-01 11:23:14,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:14,737: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:15,146: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:15
+2024-02-01 11:23:15,146: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:15,146: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:15,147: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:15,148: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:15,148: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:15,149: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:15,150: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:15,151: root: INFO: Current backtesting datetime 2023-12-26 16:00:00-05:00
+2024-02-01 11:23:15,152: root: INFO: Current backtesting datetime 2023-12-27 09:30:00-05:00
+2024-02-01 11:23:15,154: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:15
+2024-02-01 11:23:15,154: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:15,155: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,086: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:16
+2024-02-01 11:23:16,086: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:16,086: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,087: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,088: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:16,088: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,088: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,090: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:16,091: root: INFO: Current backtesting datetime 2023-12-27 16:00:00-05:00
+2024-02-01 11:23:16,091: root: INFO: Current backtesting datetime 2023-12-28 09:30:00-05:00
+2024-02-01 11:23:16,093: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:16
+2024-02-01 11:23:16,093: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,094: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,885: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:16
+2024-02-01 11:23:16,885: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:16,885: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,886: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,887: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:16,887: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,887: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,889: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:16,890: root: INFO: Current backtesting datetime 2023-12-28 16:00:00-05:00
+2024-02-01 11:23:16,890: root: INFO: Current backtesting datetime 2023-12-29 09:30:00-05:00
+2024-02-01 11:23:16,892: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-01 11:23:16
+2024-02-01 11:23:16,892: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:16,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,625: root: INFO: MLTrader : Trading iteration ended at 2024-02-01 11:23:17
+2024-02-01 11:23:17,626: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,626: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,627: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,627: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,627: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,628: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,629: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-02-01 11:23:17,630: root: INFO: Current backtesting datetime 2023-12-29 16:00:00-05:00
+2024-02-01 11:23:17,631: root: INFO: Current backtesting datetime 2023-12-30 09:30:00-05:00
+2024-02-01 11:23:17,632: root: INFO: MLTrader : The market is not currently open, skipping this trading iteration
+2024-02-01 11:23:17,632: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,634: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,634: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,636: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,636: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,638: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,640: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-02-01 11:23:17,641: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,642: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,642: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,644: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-02-01 11:23:17,644: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-01 11:23:17,644: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,644: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,645: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,646: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,648: root: INFO: Current backtesting datetime 2024-01-02 08:30:00-05:00
+2024-02-01 11:23:17,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,650: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-01 11:23:17,650: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,652: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,652: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,652: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,654: root: INFO: Current backtesting datetime 2024-01-02 09:30:00-05:00
+2024-02-01 11:23:17,654: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-01 11:23:17,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,656: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,656: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,656: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,659: root: INFO: Current backtesting datetime 2024-01-02 15:59:00-05:00
+2024-02-01 11:23:17,659: root: INFO: MLTrader : Executing the before_market_closes lifecycle method
+2024-02-01 11:23:17,660: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,660: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,660: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,661: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 11:23:17,661: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,664: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 11:23:17,666: root: INFO: Current backtesting datetime 2024-01-02 16:00:00-05:00
+2024-02-01 11:23:17,666: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-01 11:23:17,666: root: INFO: MLTrader : Executing the on_strategy_end lifecycle method
+2024-02-01 11:23:18,355: root: INFO: Backtesting finished
+2024-02-01 11:23:20,528: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,533: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,604: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,604: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,674: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,675: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,676: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,742: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,823: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,824: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,968: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:20,968: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,083: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,084: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,086: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,185: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,314: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,314: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,444: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,444: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,578: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,579: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,581: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,699: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,830: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,830: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,876: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,877: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,933: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,934: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,935: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:21,988: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,173: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,180: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,207: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,208: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,271: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,271: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,307: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,308: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,382: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,382: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,383: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,425: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,425: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,426: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,494: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,535: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,644: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,644: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,752: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,753: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,866: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,867: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,868: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:22,978: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,176: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,176: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,295: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,296: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,384: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,385: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,386: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,459: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,611: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,611: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,778: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,778: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,941: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,942: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:23,943: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,107: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,307: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,308: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,464: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,464: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,621: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,622: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,624: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,762: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,946: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:24,947: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,093: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,093: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,237: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,237: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,239: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,387: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,571: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,572: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,678: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,679: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,802: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,802: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,804: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:25,927: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,101: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,102: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,213: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,214: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,331: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,331: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,332: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,444: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,585: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,585: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,587: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,590: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,673: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,673: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,735: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,735: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,737: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,741: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,765: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,767: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,902: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,902: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,949: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:26,950: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:27,010: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:27,010: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:27,012: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:27,066: matplotlib.font_manager: WARNING: findfont: Font family 'Arial' not found.
+2024-02-01 11:23:27,291: backtest_stats: INFO: Backtest took 0:00:23.750324 for a speed of 0.000
